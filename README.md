@@ -50,8 +50,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|----------|
-| **[Pico](https://github.com/Bahatiroben/pico)** | Beautiful macOS Postgres Database Browser | TypeScript, Tauri |
-| **[url-shortener-backend](https://github.com/Bahatiroben/url-shortener-backend)** | High-performance URL shortener API | TypeScript, Node.js |
+| **[Pico](https://github.com/Bahatiroben/pico)** | Beautiful macOS Postgres Database Browser | TypeScript, Golang |
+| **[url-shortener-backend](https://github.com/Bahatiroben/url-shortener-backend)** | High-performance URL shortener API | TypeScript, Node.js/Nestjs |
 | **[cpeak](https://github.com/Bahatiroben/cpeak)** | Minimal & blazing fast Node.js framework | TypeScript |
 
 ### 🛠
