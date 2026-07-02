@@ -28,7 +28,8 @@
 - 💻 Currently Building Tools to replace my local Development third party tools
 - 🔭 Recently Built tools & systems at **One Acre Fund**
 - 💻 Passionate about **TypeScript**, **PostgreSQL**, and great developer tools
-- 🛠️ Creator of **[Pico](https://github.com/Bahatiroben/pico)** — A beautiful & lightweight macOS Postgres client
+- 🛠️ Creator of **[Pico](https://github.com/Bahatiroben/pico)** build with **Golang, Wails and Reactjs** — A beautiful & lightweight macOS Postgres client
+- 🕸️ A MTN mobile money golang SDK. A collection of methods to handle mobile payment via MTN momo APIs
 - 🌱 Always learning, open-sourcing, and writing clean code
 
 ### 📊 GitHub Stats
